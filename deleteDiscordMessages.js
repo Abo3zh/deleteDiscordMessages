@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name DeleteDiscordMessages
+// @description DeleteDiscordMessages
+// @version 1.0
+// @author Abo3zh
+// @license MIT
+// @include *
+// @icon http://pics.smotri.com/cskins/blue/smiles/bt.gif
+// @run-at document-end
+// @grant none
+// ==/UserScript==
+
 // Paste this code inside discord.com console
 
 (function () {
